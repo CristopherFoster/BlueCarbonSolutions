@@ -6,12 +6,14 @@ Remember this is a copy from a prexisting tample:
 
 ## WebpageMap
 index.html = Home
+portofolio.html = Projects
+
 
 If you need any support or find any issue, feel free to contact us
 - Contact (https://themefisher.com/submit-ticket/)
 
 For quick response please connect with our CEO
-- Skype (mehedi.titas) 
+- Skype (mehedi.titas)
 - Whatsapp (+8801672506744)
 - Telegram (+8801672506744)
 
