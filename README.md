@@ -5,11 +5,12 @@ https://cristopherfoster.github.io/BlueCarbonSolutions/
 Remember this is a copy from a prexisting tample:
 
 ## WebpageMap
-- index.html = Home
-- portofolio.html = Projects
+- Home = index.html
+- Projects = portofolio.html 
+    - Los Petenes = portofolio.html [portofolio filter]
 
 
-
+## For More Information
 If you need any support or find any issue, feel free to contact us
 - Contact (https://themefisher.com/submit-ticket/)
 
