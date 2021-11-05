@@ -5,8 +5,9 @@ https://cristopherfoster.github.io/BlueCarbonSolutions/
 Remember this is a copy from a prexisting tample:
 
 ## WebpageMap
-index.html = Home
-portofolio.html = Projects
+- index.html = Home
+- portofolio.html = Projects
+
 
 
 If you need any support or find any issue, feel free to contact us
