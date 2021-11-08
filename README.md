@@ -8,6 +8,12 @@ Remember this is a copy from a prexisting tample:
 - Home = index.html
 - Projects = portofolio.html 
     - Los Petenes = portofolio.html [portofolio filter]
+    - Carbono Azul = portfolio-single.html
+- Join Us = service.html
+- News = Blog
+    -blog-grid = blog visto del diseño simple
+    -blog-simple = Ejemplo de Noticias Individuales
+    -left-Side-Bar = Favorito, Resumen primero
 
 
 ## For More Information
