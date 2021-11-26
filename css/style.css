@@ -737,7 +737,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .slider {
-  background: url("../images/slider-bg.jpg") no-repeat;
+  background: url("../images/c4cteam2.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -862,7 +862,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/pstos.gif");
   background-position: 50% 94px;
   display: block;
   position: relative;
@@ -878,7 +878,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .feature p {
-  color: #8d8f92;
+  color: #333;
   margin-bottom: 20px;
 }
 
@@ -2099,7 +2099,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .bg-2 {
-  background: url("../images/featue-bg.jpg");
+  background: url("../images/pstos.gif");
   background-size: cover;
   background-attachment: fixed;
 }
